@@ -1,0 +1,370 @@
+avr. 27, 2016 10:23:10 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/book.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:23:10 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:48:21 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/book.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:48:21 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:52:52 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/book.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:52:52 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:57:23 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/book.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:57:23 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 10:58:24 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:27:03 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+org.apache.jasper.JasperException: Impossible de compiler la classe pour la JSP: 
+
+Une erreur s'est produite à la ligne: 12 dans le fichier jsp: /WEB-INF/public/afficheLivre.jsp
+Livre cannot be resolved to a type
+9: 		</tr>
+10: 
+11: <%
+12: for(Livre l : request.getAttributes("listeLivre"))
+13: { %>
+14: 
+15: 		<tr>
+
+
+Une erreur s'est produite à la ligne: 12 dans le fichier jsp: /WEB-INF/public/afficheLivre.jsp
+The method getAttributes(String) is undefined for the type HttpServletRequest
+9: 		</tr>
+10: 
+11: <%
+12: for(Livre l : request.getAttributes("listeLivre"))
+13: { %>
+14: 
+15: 		<tr>
+
+
+Stacktrace:
+	at org.apache.jasper.compiler.DefaultErrorHandler.javacError(DefaultErrorHandler.java:103)
+	at org.apache.jasper.compiler.ErrorDispatcher.javacError(ErrorDispatcher.java:366)
+	at org.apache.jasper.compiler.JDTCompiler.generateClass(JDTCompiler.java:476)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:378)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:353)
+	at org.apache.jasper.compiler.Compiler.compile(Compiler.java:340)
+	at org.apache.jasper.JspCompilationContext.compile(JspCompilationContext.java:657)
+	at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:357)
+	at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:390)
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:138)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1083)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1880)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:27:03 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployWAR(HostConfig.java:1083)
+	at org.apache.catalina.startup.HostConfig$DeployWar.run(HostConfig.java:1880)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:34:14 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/afficheLivre.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1247)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1898)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:34:14 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:901)
+	at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:877)
+	at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:649)
+	at org.apache.catalina.startup.HostConfig.deployDirectory(HostConfig.java:1247)
+	at org.apache.catalina.startup.HostConfig$DeployDirectory.run(HostConfig.java:1898)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:35:36 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/afficheLivre.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+
+avr. 27, 2016 11:35:36 AM org.apache.catalina.core.StandardContext loadOnStartup
+GRAVE: La servlet  a généré une exception "load()"
+javax.servlet.ServletException: missing jspFile: [/WEB-INF/public/authorlist.jsp]
+	at org.apache.jasper.servlet.JspServlet.init(JspServlet.java:123)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1284)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1197)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1087)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5229)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5516)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:4007)
+	at org.apache.catalina.startup.HostConfig.reload(HostConfig.java:1482)
+	at org.apache.catalina.startup.HostConfig.checkResources(HostConfig.java:1465)
+	at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1649)
+	at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:328)
+	at org.apache.catalina.util.LifecycleSupport.fireLifecycleEvent(LifecycleSupport.java:117)
+	at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:90)
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1374)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1546)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1556)
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1524)
+	at java.lang.Thread.run(Thread.java:745)
+

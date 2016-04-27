@@ -174,3 +174,27 @@ avr. 20, 2016 10:34:36 AM org.apache.coyote.AbstractProtocol start
 INFOS: Starting ProtocolHandler ["ajp-bio-8009"]
 avr. 20, 2016 10:34:36 AM org.apache.catalina.startup.Catalina start
 INFOS: Server startup in 1515 ms
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol pause
+INFOS: Pausing ProtocolHandler ["http-bio-8080"]
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol pause
+INFOS: Pausing ProtocolHandler ["ajp-bio-8009"]
+avr. 20, 2016 12:07:28 PM org.apache.catalina.core.StandardService stopInternal
+INFOS: Arrêt du service Catalina
+avr. 20, 2016 12:07:28 PM org.apache.openejb.assembler.classic.Assembler destroyApplication
+INFOS: Undeploying app: /home/m1/vandekadsye/workspace/car-tp4/apache-tomee/webapps/ROOT
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol stop
+INFOS: Stopping ProtocolHandler ["http-bio-8080"]
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol stop
+INFOS: Stopping ProtocolHandler ["ajp-bio-8009"]
+avr. 20, 2016 12:07:28 PM org.apache.openejb.server.SimpleServiceManager stop
+INFOS: Stopping server services
+avr. 20, 2016 12:07:28 PM org.apache.openejb.assembler.classic.Assembler destroyApplication
+INFOS: Undeploying app: openejb
+avr. 20, 2016 12:07:28 PM org.apache.openejb.assembler.classic.Assembler destroyResource
+INFOS: Closing DataSource: Default JDBC Database
+avr. 20, 2016 12:07:28 PM org.apache.openejb.assembler.classic.Assembler destroyResource
+INFOS: Closing DataSource: Default Unmanaged JDBC Database
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destroying ProtocolHandler ["http-bio-8080"]
+avr. 20, 2016 12:07:28 PM org.apache.coyote.AbstractProtocol destroy
+INFOS: Destroying ProtocolHandler ["ajp-bio-8009"]
